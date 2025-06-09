@@ -156,11 +156,6 @@
 
   <hr>
 
-  <h2>📷 Screenshots (Optional)</h2>
-  <p><em>Add screenshots of browser output or database records here if desired.</em></p>
-
-  <hr>
-
   <h2>📝 License</h2>
   <p>Open-source project free to use for educational and practice purposes.</p>
 
