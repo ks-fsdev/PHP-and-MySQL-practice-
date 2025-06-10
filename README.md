@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>PHP-MySQL CRUD Practice Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 960px;
-      margin: 2rem auto;
-      line-height: 1.6;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 1rem 0;
-    }
-    th, td {
-      border: 1px solid #ccc;
-      padding: 0.5rem;
-      text-align: left;
-    }
-    th {
-      background-color: #f5f5f5;
-    }
-    hr {
-      border: none;
-      border-top: 1px solid #bbb;
-      margin: 2rem 0;
-    }
-    code {
-      background: #eee;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>📚 PHP-MySQL CRUD Practice Project</h1>
 
@@ -158,6 +116,3 @@
 
   <h2>📝 License</h2>
   <p>Open-source project free to use for educational and practice purposes.</p>
-
-</body>
-</html>
