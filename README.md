@@ -95,6 +95,7 @@
     <li><code>UPDATE ... SET ... WHERE</code></li>
     <li><code>DELETE FROM ... WHERE</code></li>
     <li><code>TRUNCATE TABLE</code>, <code>DROP TABLE</code></li>
+    <li><code>JOIN</code>, <code>INNER JOIN</code>, <code>LEFT JOIN</code>, <code>RIGHT JOIN</code></li>
   </ul>
 
   <hr>
